@@ -7,7 +7,7 @@ Selamat datang di repository resmi dokumentasi kegiatan workshop dan pengenalan 
 ## 👤 Informasi Peserta
 * **Nama Lengkap:** Tonihson Gultom
 * **Program Studi:** D4 Teknik Multimedia dan Jaringan (TMJ 1C)
-* **Angkatan:** Mahasiswa Baru 2026
+* **Angkatan:** 2026
 * **Institusi:** Politeknik Negeri Jakarta
 
 ---
